@@ -36,4 +36,4 @@ Saya adalah mahasiswa **Teknik Informatika** yang tertarik dalam dunia pemrogram
 
 ---
 
-*“Keep coding, stay curious, and always keep learning!”* 💻✨
+*“Keep coding, stay curious, and always keep learning!”*. 💻✨
